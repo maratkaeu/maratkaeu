@@ -24,8 +24,7 @@ Tel: +49 178 3078548
 
 https://maratka.eu
 https://fb.com/MaratKa.info
-<!--
-**maratkaeu/maratkaeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **maratkaeu/maratkaeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
