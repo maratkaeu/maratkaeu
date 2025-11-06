@@ -1,29 +1,33 @@
-### Wir suchen ein neues Zuhause in Hamburg 👋
-Sehr geehrte Damen und Herren,
+<p align="center">
+  <img src="photo.jpg" alt="Marat und Familie" width="320" style="border-radius: 12px;"/>
+</p>
 
-ich heiße Marat Kamaletdinov und schreibe Ihnen bezüglich des Mietangebots für Ihre Wohnung. Ich bin ein IT-Ingenieur bei Vistajet GmbH und arbeite seit 2016 für das Unternehmen. Im Februar dieses Jahres wurde ich von unserem Büro in Bulgarien nach Hamburg versetzt, um dort weiterzuarbeiten.
+<h1 align="center">🏡 Wir suchen ein neues Zuhause in Hamburg</h1>
 
-In den letzten drei Jahren habe ich in Bulgarien in meiner eigenen Wohnung gelebt und gearbeitet. Nun suche ich nach einer langfristigen Mietwohnung in Hamburg, die mir und meinem treuen Begleiter – einem sehr liebenswerten und freundlichen Cocker Spaniel – ein neues Zuhause bieten wird. Wir sind beide reiselustig, genießen es, neue Menschen kennenzulernen, und freuen uns darauf, uns in Hamburg niederzulassen. In naher Zukunft wird sich uns auch meine Ehefrau anschließen, die derzeit noch im Ausland weilt.
+---
 
-Ich möchte auch erwähnen, dass ich derzeit keine SCHUFA-Auskunft vorlegen kann, da ich erst vor einem Monat nach Deutschland umgezogen bin. Ich verstehe, dass dies ein wichtiges Kriterium für viele Vermieter ist, und möchte Ihnen versichern, dass ich finanziell stabil bin und mich umgehend um die erforderlichen Unterlagen bemühen werde, sobald sie verfügbar sind.
+## Über uns
 
-Ihr Inserat hat mein Interesse geweckt, und ich wäre sehr erfreut, wenn Sie mich als Ihren neuen Mieter in Erwägung ziehen würden. Ich bin auf der Suche nach einem langfristigen Mietverhältnis und bin überzeugt, dass Ihre Wohnung perfekt für mich und meinen Vierbeiner wäre. Ich versichere Ihnen, dass ich ein verantwortungsbewusster und zuverlässiger Mieter bin, der großen Wert auf die Pflege und den Erhalt seiner Wohnräume legt.
+Wir sind ein ruhiges, berufstätiges Paar (beide 47 Jahre alt) mit einem freundlichen und gut erzogenen **Cocker Spaniel**.  
+Ich heiße **Marat Kamaletdinov** und arbeite als **IT-Ingenieur bei der VistaJet GmbH**, einer internationalen **Fluggesellschaft** mit Sitz in Hamburg.  
+Meine Frau arbeitet ebenfalls in Vollzeit.
 
-Ich freue mich auf die Möglichkeit, mich persönlich vorzustellen und weitere Details zu besprechen. Bitte lassen Sie mich wissen, wann es Ihnen passen würde, ein Treffen zu arrangieren.
+Da unser aktueller Mietvertrag bald endet, suchen wir nun eine **langfristige Wohnung in Hamburg**, in der wir uns wohlfühlen und gut um das Zuhause kümmern können.  
+Wichtig sind uns eine gepflegte Umgebung, gute Nachbarschaft und ein harmonisches Wohnumfeld.  
 
-Vielen Dank für Ihre Zeit und Berücksichtigung.
+In meiner Freizeit fliege ich leidenschaftlich gern **Segelflugzeuge** – das ist mein Ausgleich zum Berufsalltag.  
 
-Mit freundlichen Grüßen,
-Marat
+---
 
-Email: i@maratka.eu
+## 📞 Kontakt
 
-Tel: +49 178 3078548
+**Marat Kamaletdinov**  
+📧 [i@maratka.eu](mailto:i@maratka.eu)  
+📞 +49 178 3078548  
+🌐 [maratka.eu](https://maratka.eu)
 
-https://maratka.eu
+---
 
-https://fb.com/MaratKa.info
-
-<!-- **maratkaeu/maratkaeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+<p align="center">
+  <sub>Hamburg, 2025</sub>
+</p>
