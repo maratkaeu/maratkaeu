@@ -25,6 +25,7 @@ In meiner Freizeit fliege ich leidenschaftlich gern **Segelflugzeuge** – das i
 📧 [i@maratka.eu](mailto:i@maratka.eu)  
 📞 +49 174 1658228  
 🌐 [maratka.eu](https://maratka.eu)
+📷 [@maratka](https://instagram.com/maratka)
 
 ---
 
