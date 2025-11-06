@@ -24,8 +24,8 @@ In meiner Freizeit fliege ich leidenschaftlich gern **Segelflugzeuge** – das i
 **Marat Kamaletdinov**  
 📧 [i@maratka.eu](mailto:i@maratka.eu)  
 📞 +49 174 1658228  
-🌐 [maratka.eu](https://maratka.eu)
-📷 [@maratka](https://instagram.com/maratka)
+🌐 [maratka.eu](https://maratka.eu)  
+📷 [@MaratKa](https://instagram.com/maratka)  
 
 ---
 
